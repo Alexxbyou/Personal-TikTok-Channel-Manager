@@ -1,4 +1,4 @@
-# Personal TikTok Channel Manager
+# Personal Channel Manager
 This is a private internal tool developed for personal use to manage and upload video content to my own TikTok account.
 
 The app is used only by the developer for authentication and automated video uploads.
